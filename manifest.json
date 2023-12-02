@@ -1,0 +1,11 @@
+{
+    "Name": "Cool Chickens",
+    "Author": "StanStani",
+    "Version": "0.0.0",
+    "Description": "Make chickens more cool.",
+    "UniqueID": "StanStani.CoolChickens",
+    "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
